@@ -42,3 +42,9 @@
 .navbar ul li:hover::after{
     width: 100%;
 }
+.infoscreen{
+    color: #fff;
+    position: relative;
+    right: -250px;
+    
+}
